@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    line-height: 0;
+    background: black;
+    background-size: cover;
+}
+
+.tile{
+    width: 5vw;
+    height: 5vw;
+    display: inline-block;
+}
+
+.front{
+    background: black;
+}
+
+.back{
+    /* background: rgb(0,0,0,0); */
+}
+
